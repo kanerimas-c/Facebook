@@ -1,0 +1,163 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Segoe UI;
+}
+body{
+
+    background-color: #D8D8D8;
+
+}
+
+    .fb{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-family: Bahnschrift SemiBold;
+        font-size: 23px;
+        background-color: #3F5C9A; 
+
+    }
+    .Login{
+        margin-bottom: 10px;
+        font-size: 12px;
+        color: white;
+        float: right;
+        margin-right: 130px;
+    }
+    .button{
+        background-color: #3279AA;
+        color: white;
+        border: black;
+        font-size: 11px;
+        padding: 3px;
+
+
+    }
+
+    .Email{
+        width: 180px;
+        border: 1px solid;
+        outline: none;
+        padding: 4px;
+        box-sizing: border-box;
+
+        }
+
+    .Password{
+        width: 180px;
+        border: 1px solid;
+        outline: none;
+        padding: 4px;
+        box-sizing: border-box;
+
+    }
+
+   #mailbox{
+        padding: 10px;
+        border-radius: 3px;
+        border: black;
+        margin-bottom: 5px;
+        font-size: 17px;
+
+    }
+    input[type=name1]{
+        padding: 10px;
+        font-size: 18px;
+        border-radius: 3px;
+        border: black;
+        margin-bottom: 5px;
+
+    }
+
+    img{
+        width: 5%;
+        margin-top: 10px;
+        float: left;
+        margin-left: 100px;
+    }
+
+    .Forgot{
+        color: #CED8F6;
+    }
+    .info{
+        margin-top: -410px;
+        float: right;
+        margin-left: 750px;
+        font-size: 30px;
+    }
+        
+    .text{
+        margin-left: 750px;
+        font-size: 33px;
+    }
+    .text1{
+        margin-left: 750px;
+        font-size: 20px;
+    }
+    .P{
+        font-size: 14px;
+        color: grey;
+    }
+    .G{
+        font-size: 18px;
+        color: black;
+    }
+    #head1{
+        width:5%;
+        float:left;
+        margin-right: 60px;
+    }
+    #head2{
+        width:5%;
+        float:left;
+        margin-right:50px;"
+    }
+    #head3{
+        width:2%;
+        float:left;
+        margin-right:38px;"     
+    }
+    #signup{
+        background-color: #088A29;
+        color: white;
+        width: 35%;
+        size: 10px
+        border: black;
+        font-size: 20px;
+        padding: 10px;
+        border-radius: 10px;
+
+
+    }
+
+    #text3{
+        letter-spacing: 1px;
+        font-size: 20px;
+    }
+    #footer{
+        font-size: 11px;
+    }
+    #footer1{
+        font-size: 15px;
+    }
+    #blue{
+        color: #3F5C9A;
+    }
+    #help{
+        margin-top: -33px;
+        float: right;
+        margin-right: 145px;
+        width: 60%;
+        height: 5%;
+    }
+     #help1{
+        margin-top: -30px;
+        float: right;
+        margin-right: 90px;
+        width: 60%;
+        height: 5%;
+    }
+    .icon1{
+        color: #4F74B9;
+    }
